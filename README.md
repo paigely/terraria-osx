@@ -1,3 +1,4 @@
+I don't use macOS much anymore so this is now archived
 
 ## Anatomy
 * `osx.zip` - Collection of Terraria's latest libraries
@@ -59,8 +60,6 @@ Vulkan can almost quadruple your performance with a drawback of having
 to patch Terraria since its implementation memory leaks
 
 1. Put `/gldevice:Vulkan` in Terraria's launch options
-<img width="425" height="326" alt="image" src="https://github.com/user-attachments/assets/a5e582aa-b41a-4a7d-8d96-df061339e772" />
-
 2. Follow the instructions to patch dylibs as shown above
 
 ## To-do
